@@ -12,7 +12,7 @@ Clone or Download the repository and save the files in your Python directory. Pa
 and then run the code.
 
 # Results
-<img src="Results\master_cost.png" width="200" height="200"/><img src="Results\slave_cost.png" width="200" height="200"/><img src="Results\standalone_cost.png" width="200" height="200"/>
+<img src="Results\master_cost.png" width="250" height="200"/><img src="Results\slave_cost.png" width="250" height="200"/><img src="Results\standalone_cost.png" width="250" height="200"/>
 
-<img src="Results\master_iter.png" width="200" height="200"/><img src="Results\slave_iter.png" width="200" height="200"/><img src="Results\standalone_iter.png" width="200" height="200"/>
+<img src="Results\master_iter.png" width="250" height="200"/><img src="Results\slave_iter.png" width="250" height="200"/><img src="Results\standalone_iter.png" width="250" height="200"/>
 
