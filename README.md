@@ -12,6 +12,6 @@ Clone or Download the repository and save the files in your Python directory. Pa
 and then run the code.
 
 # Results
-<img src="Results\master_cost.fig" width="100" height="100"/><img src="Results\slave_cost.fig" width="100" height="100"/><img src="Results\standalone_cost.fig" width="100" height="100"/>
-<img src="Results\master_cost.val" width="100" height="100"/><img src="Results\slave_val.fig" width="100" height="100"/><img src="Results\standalone_val.fig" width="100" height="100"/>
+<img src="Results\master_cost.png" width="100" height="100"/><img src="Results\slave_cost.png" width="100" height="100"/><img src="Results\standalone_cost.png" width="100" height="100"/>
+<img src="Results\master_iter.png" width="100" height="100"/><img src="Results\slave_iter.png" width="100" height="100"/><img src="Results\standalone_iter.png" width="100" height="100"/>
 
