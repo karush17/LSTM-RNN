@@ -16,3 +16,5 @@ and then run the code.
 
 <img src="Results\master_iter.png" width="250" height="200"/><img src="Results\slave_iter.png" width="250" height="200"/><img src="Results\standalone_iter.png" width="250" height="200"/>
 
+# Acknowledgment
+We would like to recognize the funding support provided by the Science & Engineering Research Board, a statutory body of the Department of Science & Technology (DST), Government of India, SERB file number ECR/2016/000637. 
